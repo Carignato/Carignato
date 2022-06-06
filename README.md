@@ -2,7 +2,7 @@
 <h5 align="center">Bem vindo ao meu perfil no Github✨</h5>
  <div align="center"><br>
   
- <img alt="Carignato-Python" height="30" width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white">
+ <img align="center" alt="Carignato-Python" height="30" width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white">
   
  </div>
 <div align="center">
