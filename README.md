@@ -2,7 +2,7 @@
 <h5 align="center">Bem vindo ao meu perfil no Github✨</h5>
  <div align="center"><br>
   
-  <a href="https://www.instagram.com/carignatoo/"><img align="center" alt="Carignato-Python" height="30" width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/lucas-carignato/"><img align="center" alt="Linkedin" height="30" width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white"></a>
   
  </div>
 <div align="center">
