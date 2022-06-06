@@ -1,6 +1,13 @@
 
 <h5 align="center">Bem vindo ao meu perfil no Github✨</h5>
-
+ <div align="center"><br>
+  
+  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+  
+  
+  
+  
+ </div>
 <div align="center">
   <a href="https://github.com/Carignato">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Carignato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
