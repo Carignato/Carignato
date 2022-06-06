@@ -1,5 +1,5 @@
 
-<h5>Bem vindo ao meu perfil no Github, aqui vou explicar um pouco quais os meus conhecimentos e aprendizados na área de T.I. ✨</h5>
+<h5 align="center">Bem vindo ao meu perfil no Github, aqui vou explicar um pouco quais os meus conhecimentos e aprendizados na área de T.I. ✨</h5>
 
 <div align="center">
   <a href="https://github.com/Carignato">
