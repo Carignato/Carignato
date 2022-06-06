@@ -1,7 +1,7 @@
 
 <h5 align="center">Bem vindo ao meu perfil no Github✨</h5>
  <div align="center"><br>
-  
+  <h6 align="center">Acessando meu linkedin você encontrará todas as expêriencias que possuo</h6>
   <a href="https://www.linkedin.com/in/lucas-carignato/"><img align="center" alt="Linkedin" height="30" width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white"></a>
    <a href="https://www.instagram.com/carignatoo/"><img align="center" alt="Linkedin" height="30" width="100" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  
@@ -24,7 +24,9 @@
   <img align="center" alt="Carignato-Cisco" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/cisco-2.svg">
    
   </div>
+ 
+
   
-  </div>
+ 
   
 
