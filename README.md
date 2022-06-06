@@ -13,7 +13,8 @@
   <img align="center" alt="Carignato-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Carignato-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Carignato-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Carignato-Cisco" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/cisco-2.svg">
   </div>
-   <img align="center" alt="Carignato-Cisco" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/cisco-2.svg">
+
   </div>
   
