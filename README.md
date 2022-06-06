@@ -12,7 +12,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carignato&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-  <h5 align="center">Principais linguagens e técnologias que possuo experiência ✨</h5><br>
+  <h5 align="center">Principais linguagens e técnologias que possuo experiência ✨</h5>
   <div align="center"><br>
   <img align="center" alt="Carignato-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Carignato-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
